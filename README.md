@@ -5,7 +5,7 @@ Life System - X1Studios (Havoc Sheriff)
 
 The X1Studios Life System is one massive script to make roleplay better. Includes:
 Character creation/selection + spawn selector + duty/dispatch/panic + a full
-CAD/MDT, combined into one standalone FiveM resource. Built from your
+CAD/MDT, combined into one standalone FiveM resource. Built using X1S
 existing **X1S-AdvDutySystem** and **X1S-SpawnSelector**, whose UI,
 behaviour, and permissions (Discord-role duty verification, department
 webhooks, 911/panic, spawn locations) are preserved exactly as they were and
